@@ -2,8 +2,8 @@
 
 Use AWS Data Wrangler to analyze the `yum-yum-ice-cream.csv` data. You'll notice this is the same data produced from Exercise 1.
 
-
 Procedure for this exercise:
+
 1. Launch the AWS Gateway.
 2. Load `yum-yum-ice-cream.csv` to S3. Create a new bucket if you have not already done so.
 3. Open up Sagemaker Studio.
